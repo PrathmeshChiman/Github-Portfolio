@@ -1,0 +1,23 @@
+p{
+    margin: 0;
+    font-weight: 650;
+}
+
+.infoDiv{
+    margin: 0px 50px;
+}
+
+.alignDiv{
+    display: flex;
+    justify-content: space-between;
+}
+
+a{
+    display: block;
+    text-align: right;
+    color:aqua;
+}
+
+.alignLinks{
+    text-align: right;
+}
